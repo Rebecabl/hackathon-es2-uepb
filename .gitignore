@@ -1,0 +1,9 @@
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Logs e arquivos temporários
+*.log
+*.tmp
