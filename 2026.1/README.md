@@ -69,19 +69,13 @@ Registro das atividades e projetos desenvolvidos no Hackathon de Engenharia de S
 
 ---
 
-## Registros Fotográficos
+## Registros
 
 Registros da apresentação final e encerramento da edição 2026.1:
 
-<p align="center">
-  <img src="assets/foto-geral.jpg" alt="Foto Geral do Evento - 2026.1" width="800"/>
-</p>
+<img width="4000" height="1848" alt="WhatsApp Image 2026-09-03 at 03 33 21" src="https://github.com/user-attachments/assets/3661f2f4-51fe-4a97-8014-2ca12d289cd1" />
+<img width="4000" height="1848" alt="WhatsApp Image 2026-09-03 at 03 33 20" src="https://github.com/user-attachments/assets/df0f1715-6145-4356-bb6a-653df166b560" />
 
-<p align="center">
-  <img src="assets/primeiro-lugar.jpg" alt="Equipe - 1º Lugar (AVA-UEPB)" width="260"/>
-  <img src="assets/segundo-lugar.jpg" alt="Equipe - 2º Lugar (Eventualize)" width="260"/>
-  <img src="assets/terceiro-lugar.jpg" alt="Equipe - 3º Lugar (Cantina UEPB)" width="260"/>
-</p>
 
 ---
 [Voltar para a página inicial dos Hackathons](../README.md)
