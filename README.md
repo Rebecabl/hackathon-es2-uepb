@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Docente-Profª._Rebeca_Barbosa_Lourenço-purple?style=for-the-badge" alt="Docente" />
 </p>
 
-Repositório oficial e permanente dos Hackathons da disciplina de **Engenharia de Software II** do curso de Ciência da Computação da Universidade Estadual da Paraíba (UEPB). O espaço reúne o regulamento geral da atividade, as diretrizes de avaliação e o registro histórico das soluções desenvolvidas pelos discentes a cada semestre letivo.
+Repositório dos Hackathons da disciplina de **Engenharia de Software II** do curso de Ciência da Computação da Universidade Estadual da Paraíba (UEPB). O espaço reúne o regulamento geral da atividade, as diretrizes de avaliação e o registro histórico das soluções desenvolvidas pelos discentes a cada semestre letivo.
 
 ---
 
