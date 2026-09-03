@@ -67,6 +67,17 @@ Registro das atividades e projetos desenvolvidos no Hackathon de Engenharia de S
 | **2º lugar** | **Eventualize** | Gestão de eventos acadêmicos | Java, Spring Boot e interface web |
 | **3º lugar** | **Cantina UEPB** | Atendimento nas cantinas | Java, Spring Boot e microsserviços |
 
+
+---
+
+## Banca Avaliadora
+
+A avaliação das apresentações finais contou com a participação dos seguintes professores:
+
+- **Prof. Lucas Henrique Oliveira de Araújo**
+- **Prof. Dr. Jucelio Soares dos Santos**
+- **Prof. Me. Pablo Ribeiro Suárez**
+
 ---
 
 ## Registros
